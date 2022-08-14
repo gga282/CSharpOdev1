@@ -1,0 +1,15 @@
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.csproj.AssemblyReference.cache
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.AssemblyInfoInputs.cache
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.AssemblyInfo.cs
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.csproj.CoreCompileInputs.cache
+/Users/goksu/Projects/Odev1/Odev1.2/bin/Debug/net6.0/Odev1.2
+/Users/goksu/Projects/Odev1/Odev1.2/bin/Debug/net6.0/Odev1.2.deps.json
+/Users/goksu/Projects/Odev1/Odev1.2/bin/Debug/net6.0/Odev1.2.runtimeconfig.json
+/Users/goksu/Projects/Odev1/Odev1.2/bin/Debug/net6.0/Odev1.2.dll
+/Users/goksu/Projects/Odev1/Odev1.2/bin/Debug/net6.0/Odev1.2.pdb
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.dll
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/refint/Odev1.2.dll
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.pdb
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/Odev1.2.genruntimeconfig.cache
+/Users/goksu/Projects/Odev1/Odev1.2/obj/Debug/net6.0/ref/Odev1.2.dll
